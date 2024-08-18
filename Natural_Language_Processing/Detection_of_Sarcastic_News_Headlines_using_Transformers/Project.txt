@@ -1,0 +1,7 @@
+Sarcasm Detection: The task is about detecting whether a given text is sarcastic or not.
+Reference paper 1:  Sarcasm Detection: A Comparative Study
+Reference paper 2: Techniques of Sarcasm Detection: A Review
+Reference paper 3: Sarcasm Detection Using an Ensemble Approach
+Reference paper 4: Sarcasm Detection Using Deep Learning With Contextual Features
+Reference paper 5: Context-Aware Sarcasm Detection Using BERT
+Competition link: https://www.kaggle.com/competitions/sarcasmdetect
