@@ -1,0 +1,55 @@
+Assignment 1
+[LINK] - https://www.kaggle.com/t/b04f415a66074f68b074d317d9fa3af9
+
+[REFERENCES] -
+
+https://piazza.com/class_profile/get_resource/lqt8bj4zlof29w/lr3r5r313a41qi
+https://piazza.com/class_profile/get_resource/lqt8bj4zlof29w/lr7yt1vqdn52md
+https://piazza.com/class_profile/get_resource/lqt8bj4zlof29w/lrdi7fy7o7p2dx
+Speech and Language Processing (Chapter - 6)
+In corpus linguistics, part-of-speech tagging (POS tagging or PoS tagging or POST), also called grammatical tagging is the process of marking up a word in a text (corpus) as corresponding to a particular part of speech, based on both its definition and its context.
+
+https://paperswithcode.com/sota/part-of-speech-tagging-on-penn-treebank
+Above URL shows the current state-of-the-art performance in PoS tagging on Penn Treebank Benchmark. While most of the entries in the leaderboard use a deep neural network architecture, classical models like HMM and MEMM are still being utilized given their ease of interpretation and their backing by exhaustive literature.
+
+In the first assignment of this course, you will be tasked with implementing both HMM and MEMM taggers. Your models should be coded from scratch without use of any already existing implementations.
+
+
+
+
+Overview
+In corpus linguistics, part-of-speech tagging (POS tagging or PoS tagging or POST), also called grammatical tagging is the process of marking up a word in a text (corpus) as corresponding to a particular part of speech, based on both its definition and its context.
+
+https://paperswithcode.com/sota/part-of-speech-tagging-on-penn-treebank
+Above URL shows the current state-of-the-art performance in PoS tagging on Penn Treebank Benchmark. While most of the entries in the leaderboard use a deep neural network architecture, classical models like HMM and MEMM are still being utilized given their ease of interpretation and their backing by exhaustive literature.
+
+In the first assignment of this course, you will be tasked with implementing both HMM and MEMM taggers. Your models should be coded from scratch without use of any already existing implementations.
+
+Both these taggers ought to be trained on the dataset provided and will be tested for their performance on the test dataset provided. You are encouraged to apply any suitable modifications to these models or try different techniques to get as high a score as possible. Remember, all that is required is that you maintain integrity while apply novel techniques to get a high score, and DO NOT copy code from external sources at all. You are however, encouraged to acknowledge and cite sources you refer to.
+
+The end of this competition will be followed by a short discussion with each student on how they tackled this assignment and what all techniques they could apply outside HMM and MEMM to improve their performance on the Leaderboard.
+
+BONUS TASK
+
+It is expected that at the end of the first week of the assignment, you should have atleast implement one basic model for PoS tagging. At the end of the first week, a bonus task will be shared with you all, in direction to guide you to perform basic NLP research with your coded model.
+
+The task, however basic and intuitive, will be a good way to face you all to NLP research and its niches.
+
+P.S. The task will be released only if the instructors find it suitable for the class to take its load following the class's experience with one week of coding PoS taggers.
+
+[POINTS TO REMEMBER]
+
+Compulsory scratch implementation of HMM & MEMM
+Leaderboard climbing using scratch implementation of different models/combination of models/ modifications to existing model.
+Bonus Task to introduce you all to some basic research practices.
+Short Report on your observations (The instructors advise you all to make reports in unorthodox manner and include only your insights and improvements)
+
+
+Evaluation
+You will be evaluated on following tracks
+
+Implementation and understanding of HMM and MEMM
+Overall performance on the Leaderboard.
+Code interpretability and documentation
+Assignment Report
+Short one-to-one discussion following assignment submission.
