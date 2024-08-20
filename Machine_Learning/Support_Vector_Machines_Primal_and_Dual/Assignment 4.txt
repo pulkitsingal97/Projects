@@ -1,0 +1,1 @@
+Develop LINGO code for support vector machines, both in the primal and in the dual kernel space. Test out the code on at least 3 examples of linearly non-separable data, each with at least 10 samples in 3 or higher dimension.
