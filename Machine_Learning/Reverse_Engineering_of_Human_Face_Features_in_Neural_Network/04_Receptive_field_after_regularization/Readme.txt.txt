@@ -1,0 +1,1 @@
+Before running the code, train a neural network model from the folder "01_Training_neural_network", for e.g., ""06_Cross_entropy_loss_L2_regularization.keras", and keep the .keras file in the current directory. Provide its name in the form of a string in cell 3.
